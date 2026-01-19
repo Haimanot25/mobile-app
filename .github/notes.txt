@@ -1,2 +1,3 @@
 Increase test coverage
 Fix typos in contributing guide
+Update hero section styling
