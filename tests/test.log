@@ -1,3 +1,4 @@
 Increase test coverage
 Fix CORS configuration
 Update database schema
+Add dark mode toggle
