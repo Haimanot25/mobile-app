@@ -2,3 +2,4 @@
 # Refactor API error handling
 # Add unit tests for auth module
 # Fix typos in contributing guide
+# Update README with setup instructions
