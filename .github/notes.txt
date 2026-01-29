@@ -2,3 +2,4 @@ Increase test coverage
 Fix typos in contributing guide
 Update hero section styling
 Add user authentication middleware
+Add unit tests for auth module
