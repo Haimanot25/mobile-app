@@ -4,3 +4,4 @@
 # Fix typos in contributing guide
 # Update README with setup instructions
 # Fix typo in error message
+# Clean up unused imports
