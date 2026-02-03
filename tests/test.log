@@ -4,3 +4,4 @@ Update database schema
 Add dark mode toggle
 Add unit tests for auth module
 Add e2e test for checkout flow
+Refactor API error handling
