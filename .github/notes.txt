@@ -6,3 +6,4 @@ Add unit tests for auth module
 Clean up unused imports
 Optimize image loading
 Update database schema
+Fix navigation z-index issue
