@@ -5,3 +5,4 @@
 # Update README with setup instructions
 # Fix typo in error message
 # Clean up unused imports
+# Fix CORS configuration
