@@ -8,3 +8,4 @@
 # Fix CORS configuration
 # Optimize image loading
 # Optimize image loading
+# Add dark mode toggle
