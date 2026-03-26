@@ -7,3 +7,4 @@ Add e2e test for checkout flow
 Refactor API error handling
 Fix responsive layout on mobile
 Add unit tests for auth module
+Add API documentation
