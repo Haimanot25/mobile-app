@@ -9,3 +9,4 @@ Update database schema
 Fix navigation z-index issue
 Refactor API error handling
 Add rate limiting
+Fix CORS configuration
