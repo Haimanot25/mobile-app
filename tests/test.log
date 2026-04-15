@@ -10,3 +10,4 @@ Add unit tests for auth module
 Add API documentation
 Add API documentation
 Update database schema
+Fix CORS configuration
