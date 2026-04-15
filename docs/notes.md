@@ -10,3 +10,4 @@
 # Optimize image loading
 # Add dark mode toggle
 # Clean up unused imports
+# Refactor API error handling
