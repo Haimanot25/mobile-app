@@ -12,3 +12,4 @@ Add API documentation
 Update database schema
 Fix CORS configuration
 Add rate limiting
+Fix CORS configuration
