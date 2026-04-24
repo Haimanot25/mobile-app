@@ -13,3 +13,4 @@
 # Refactor API error handling
 # Fix CORS configuration
 # Fix CORS configuration
+# Fix navigation z-index issue
