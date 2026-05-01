@@ -12,3 +12,4 @@
 // Update hero section styling - 1784576530
 // Fix CORS configuration - 1784576532
 // Update database schema - 1784576536
+// Fix navigation z-index issue - 1784576537
