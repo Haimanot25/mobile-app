@@ -14,3 +14,4 @@
 # Fix CORS configuration
 # Fix CORS configuration
 # Fix navigation z-index issue
+# Optimize image loading
