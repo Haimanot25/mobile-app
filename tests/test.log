@@ -14,3 +14,4 @@ Fix CORS configuration
 Add rate limiting
 Fix CORS configuration
 Update database schema
+Add dark mode toggle
