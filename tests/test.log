@@ -15,3 +15,4 @@ Add rate limiting
 Fix CORS configuration
 Update database schema
 Add dark mode toggle
+Fix responsive layout on mobile
