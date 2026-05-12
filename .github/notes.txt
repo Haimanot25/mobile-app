@@ -14,3 +14,4 @@ Update database schema
 Optimize image loading
 Update database schema
 Refactor API error handling
+Increase test coverage
