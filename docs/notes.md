@@ -17,3 +17,4 @@
 # Optimize image loading
 # Optimize image loading
 # Add e2e test for checkout flow
+# Fix CORS configuration
