@@ -19,3 +19,4 @@ Fix responsive layout on mobile
 Fix navigation z-index issue
 Fix responsive layout on mobile
 Clean up unused imports
+Refactor API error handling
