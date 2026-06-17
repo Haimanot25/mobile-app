@@ -22,3 +22,4 @@ Clean up unused imports
 Refactor API error handling
 Update database schema
 Update database schema
+Add user authentication middleware
