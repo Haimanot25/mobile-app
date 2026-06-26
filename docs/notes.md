@@ -21,3 +21,4 @@
 # Fix responsive layout on mobile
 # Fix typo in error message
 # Fix navigation z-index issue
+# Add dark mode toggle
