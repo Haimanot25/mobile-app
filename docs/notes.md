@@ -23,3 +23,4 @@
 # Fix navigation z-index issue
 # Add dark mode toggle
 # Add environment config template
+# Update hero section styling
