@@ -19,3 +19,4 @@ Fix responsive layout on mobile
 Clean up unused imports
 Clean up unused imports
 Add e2e test for checkout flow
+Update dependencies
