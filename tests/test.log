@@ -25,3 +25,4 @@ Update database schema
 Add user authentication middleware
 Add user authentication middleware
 Fix responsive layout on mobile
+Refactor API error handling
